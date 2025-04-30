@@ -1,0 +1,3 @@
+/Users/yukashsivaraj/Documents/Projects/gif-generator/build/CMakeFiles/GifCreator.dir
+/Users/yukashsivaraj/Documents/Projects/gif-generator/build/CMakeFiles/edit_cache.dir
+/Users/yukashsivaraj/Documents/Projects/gif-generator/build/CMakeFiles/rebuild_cache.dir
